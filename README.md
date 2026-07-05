@@ -100,4 +100,4 @@ SoulzLab V1 dilengkapi dengan 15 modul eksploitasi dan pengintaian yang terbagi 
 *Toolkit* ini dirancang **HANYA untuk tujuan edukasi dan pengujian keamanan yang legal** (Sistem/Jaringan yang Anda miliki sendiri atau memiliki izin tertulis). Segala bentuk penyalahgunaan *tools* ini untuk merusak, menyerang, atau mengeksploitasi sistem pihak lain adalah tanggung jawab penuh pengguna akhir. **Think Before You Type.**
 
 ---
-*Developed with 💀 by [Nama/Username Anda] - 2026*
+*Developed with 💀 by Tony De Louvre - 2026*
